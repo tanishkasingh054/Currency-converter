@@ -62,3 +62,6 @@ python -m unittest test_app.py
 - The app uses the Frankfurter API, which is free and easy to use.
 - The app works on Windows, macOS, and Linux as long as Python and Tkinter are installed.
 - If the internet connection is unavailable, the app shows a friendly error message instead of crashing.
+## Application Preview
+
+![Currency Converter](screenshots/currency-converter.png)
