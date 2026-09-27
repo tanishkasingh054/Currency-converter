@@ -2,9 +2,6 @@
 
 A small Python project for converting currencies using live exchange rates.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-
 ## Preview
 
 ![Currency Converter](screenshots/currency-converter.png)
